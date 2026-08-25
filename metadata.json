@@ -1,0 +1,6 @@
+{
+  "name": "Phone Lookup",
+  "description": "Simple phone number caller lookup and contact details finder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Phone shape centered in safe area -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,30h32c2.2,0 4,1.8 4,4v40c0,2.2 -1.8,4 -4,4H38c-2.2,0 -4,-1.8 -4,-4V34c0,-2.2 1.8,-4 4,-4zm3,8c-0.55,0 -1,0.45 -1,1v26c0,0.55 0.45,1 1,1h26c0.55,0 1,-0.45 1,-1V39c0,-0.55 -0.45,-1 -1,-1H41zm13,31c1.1,0 2,-0.9 2,-2s-0.9,-2 -2,-2 -2,0.9 -2,2 0.9,2 2,2z" />
+    <!-- Magnifier overlaid on bottom right of phone -->
+    <path
+        android:fillColor="#4FC3F7"
+        android:pathData="M65.5,53c-5.8,0 -10.5,4.7 -10.5,10.5 0,2.4 0.8,4.6 2.2,6.4L50,77.1c-0.8,0.8 -0.8,2 0,2.8 0.8,0.8 2,0.8 2.8,0l7.2,-7.2c1.8,1.4 4,2.2 6.4,2.2 5.8,0 10.5,-4.7 10.5,-10.5 0,-5.8 -4.7,-10.5 -10.4,-10.4zm0,17c-3.6,0 -6.5,-2.9 -6.5,-6.5s2.9,-6.5 6.5,-6.5 6.5,2.9 6.5,6.5 -2.9,6.5 -6.5,6.5z" />
+</vector>
